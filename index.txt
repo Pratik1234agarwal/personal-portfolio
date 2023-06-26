@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Pratik Agarwal
+Pratik Agarwal
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+pratik1234agarwal@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 (912) 22-22267
 
 Birthday
-June 23, 1982
+June 2, 2002
 
 Location
-Sacramento, California, USA
+Kharagpur, West Bengal, India
 
 # navbar
 
